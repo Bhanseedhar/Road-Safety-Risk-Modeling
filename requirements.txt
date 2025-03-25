@@ -1,0 +1,10 @@
+pandas
+seaborn
+plotly
+matplotlib
+numpy
+category_encoders
+pyproj
+xgboost
+lightgbm
+catboost
